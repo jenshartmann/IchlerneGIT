@@ -1,3 +1,6 @@
 zweite Datei
 
+hier ist wohl Text
+und hier auch
+
 mit mehr Zeilen, für späteren Merge
