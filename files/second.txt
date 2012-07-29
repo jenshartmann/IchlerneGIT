@@ -1,9 +1,7 @@
 zweite Datei
-
 hier war vorher kein Text
-
 hier auch nicht
-
+hier ist wohl Text
+und hier auch
 mit mehr Zeilen, für späteren Merge
-
 noch mehr Text
